@@ -1,3 +1,4 @@
 # statenotifier_test
 
-statenotifierのテスト
+statenotifier + freezed + hooks_riverpodのテスト(StatefulHookConsumerWidget)
+
